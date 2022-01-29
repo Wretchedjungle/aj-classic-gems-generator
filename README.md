@@ -17,3 +17,7 @@ This generates your AJ Classic account ~1,500 gems per minute by abusing the ref
 3. Execute the command `pip install -r requirements.txt`.
 4. Close the Windows Powershell terminal and then open the `gems.py` file.
 5. Enter your [Animal Jam Classic referral code](https://wretched.io/aj/code.png) when prompted. Paste it and press Enter.
+
+# 
+
+created by [Wretched](https://wretched.io)
