@@ -19,5 +19,4 @@ This generates your AJ Classic account ~1,500 gems per minute by abusing the ref
 5. Enter your [Animal Jam Classic referral code](https://wretched.io/aj/code.png) when prompted. Paste it and press Enter.
 
 # 
-
 created by [Wretched](https://wretched.io)
