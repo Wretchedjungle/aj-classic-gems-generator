@@ -1,5 +1,5 @@
 # AJ Classic Gems Generator
-<p align="center"><img src="https://wretched.io/assets/Gems-UI.png" height="897" width="445"></p>
+<p align="center"><img src="https://wretched.io/assets/Gems-UI.png" height="445" width="897"></p>
 
 # Don't waste your time
 I doubt anyone would use this, especially in 2022 when the game is virtually dying and it would be useless to 99% of people. Definitely feel free to try it or look at the source code if you wish.
