@@ -2,12 +2,12 @@
 <p align="center"><img src="https://wretched.io/assets/Gems-UI.png" height="300" width="637"></p>
 
 # Don't waste your time
-I doubt anyone would use this in 2022. Thought it'd be cool to remake an old project of mine. Initially this was made for AJ Classic when the refer a friend feature released. Don't waste your time as I doubt it'll be useful, but feel free to try it as well.
+I doubt anyone would use this, especially in 2022 when the game is virtually dying and it would be useless to 99% of people. Definitely feel free to try it or look at the source code if you wish.
 
 # What it does
 This generates your AJ Classic account ~1,500 gems per minute by abusing the refer a friend feature in the game.
 
-# What is AJ Classic?
+# What is Animal Jam Classic?
 [Animal Jam Classic](https://classic.animaljam.com), formerly known as Animal Jam, is a massively multiplayer online game that is developed by WildWorks and recommended for kids up to the age of 12. It was launched in 2010, in collaboration with the National Geographic Society.
 
 # Setup
