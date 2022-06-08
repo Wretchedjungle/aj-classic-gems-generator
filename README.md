@@ -16,7 +16,7 @@ This simply creates accounts using your set referral code, giving you ~1500 gems
 2. Click the `File` tab on your file explorer window, then click `Open PowerShell`.
 3. Execute the command `pip install -r requirements.txt`.
 4. Close the Windows Powershell terminal and then open the `gems.py` file.
-5. Paste/type in the last six characters of your [Animal Jam Classic referral code](https://wretched.io/animaljam/referral.png) when prompted. Paste it and press Enter.
+5. Paste/type in the last six characters of your [Animal Jam Classic referral code](https://wretched.io/assets/Referral-Code.png) when prompted. Paste it and press Enter.
 
 # 
 created by [Wretched](https://wretched.io)
