@@ -5,7 +5,7 @@
 I doubt anyone would use this, especially in 2022 when the game is virtually dying and it would be useless to 99% of people. Definitely feel free to try it or look at the source code if you wish.
 
 # What it does
-This generates your AJ Classic account ~1,500 gems per minute by abusing the refer a friend feature in the game.
+This simply creates accounts using your set referral code, giving you ~1500 gems per minute in the game.
 
 # What is Animal Jam Classic?
 [Animal Jam Classic](https://classic.animaljam.com), formerly known as Animal Jam, is a massively multiplayer online game that is developed by WildWorks and recommended for kids up to the age of 12. It was launched in 2010, in collaboration with the National Geographic Society.
